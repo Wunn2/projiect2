@@ -10,8 +10,13 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "axios": "^0.19.2",
+    "element-ui": "^2.13.2",
+    "jquery": "^3.5.1",
+    "qs.js": "^0.1.12",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-router": "^3.3.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
@@ -40,6 +45,7 @@
     "rimraf": "^2.6.0",
     "semver": "^5.3.0",
     "shelljs": "^0.7.6",
+    "swiper": "^5.4.2",
     "uglifyjs-webpack-plugin": "^1.1.1",
     "url-loader": "^0.5.8",
     "vue-loader": "^13.3.0",
